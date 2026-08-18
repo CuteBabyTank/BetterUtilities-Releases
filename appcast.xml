@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>BetterUtilities</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Tue, 18 Aug 2026 13:30:27 +0000</pubDate>
+            <sparkle:version>157</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/CuteBabyTank/BetterUtilities-Releases/releases/download/v0.1.0-157/BetterUtilities-0.1.0-157.zip" length="3462985" type="application/octet-stream" sparkle:edSignature="3maMX0ZHMyAyLkVHMOQ/PqFLpsHlpNHbwyVzHmatEH1hDUJU7bcEnrbAOH73A45HKQ2nzFpQwQnzaPQmd932Bw=="/>
+        </item>
+    </channel>
+</rss>
