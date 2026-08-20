@@ -4,12 +4,12 @@
         <title>BetterUtilities</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Thu, 20 Aug 2026 09:05:55 +0000</pubDate>
-            <sparkle:version>180</sparkle:version>
+            <pubDate>Thu, 20 Aug 2026 15:31:39 +0000</pubDate>
+            <sparkle:version>181</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/CuteBabyTank/BetterUtilities-Releases/releases/download/v0.1.0-180/BetterUtilities-0.1.0-180.zip" length="3499436" type="application/octet-stream" sparkle:edSignature="78NnSAE1EIhxmzqiReyJ0uaEd5KxYVR4j/5UczyFPOI+fxbGrSluNWEWh1o1i5OW9uQXwLZqEIa+7XKAv3CQBQ=="/>
+            <enclosure url="https://github.com/CuteBabyTank/BetterUtilities-Releases/releases/download/v0.1.0-181/BetterUtilities-0.1.0-181.zip" length="3499437" type="application/octet-stream" sparkle:edSignature="JduQgp1q6Yu3pNFEuq9FWFdJDZ3IR5JNCnOQzTUuYQAPOz7HQfp219FTYKJ7k1AbQ7KFT8BMRGEkGnIYYPHqCA=="/>
         </item>
     </channel>
 </rss>
